@@ -7,9 +7,9 @@ namespace LU_VUMC_Project
 {
     class Lesson_2
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Hello World!");
 
             //var num1 = 1;
             //var num2 = num1++;
@@ -112,6 +112,6 @@ namespace LU_VUMC_Project
             //================================================================================
 
 
-        }
+        //}
     }
 }
