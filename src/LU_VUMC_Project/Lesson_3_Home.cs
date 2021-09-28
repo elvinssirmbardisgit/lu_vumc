@@ -9,25 +9,25 @@ namespace LU_VUMC_Project
     class Lesson_3_Home
     {
 
-        static void Main(string[] args)
+        public void Lesson_3_Home_Method()
         {
-            Console.WriteLine("Hello World!");
 
             //================================================================================
 
-            //var phone = new Lesson_3_Home_Phone();
-            //phone.Phone();
+            var phone = new Lesson_3_Home_Phone();
+            phone.Phone();
 
-            ////================================================================================
+            //================================================================================
 
-            //var car = new Lesson_3_Home_Car();
-            //car.Car();
+            var car = new Lesson_3_Home_Car();
+            car.Car();
 
             //================================================================================
 
             var item = new Lesson_3_Home_Item();
             item.Item();
 
+            //================================================================================
 
 
 
