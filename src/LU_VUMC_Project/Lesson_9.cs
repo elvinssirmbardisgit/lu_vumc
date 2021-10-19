@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace LU_VUMC_Project
 {
-    class Lesson_8
+    class Lesson_9
     {
-        public void Lesson_8_Method()
+        public void Lesson_9_Method()
         {
 
 
-            
+
 
 
 
@@ -24,10 +24,6 @@ namespace LU_VUMC_Project
 
 
         }
-
-
-
-
 
 
 

@@ -42,19 +42,23 @@ namespace LU_VUMC_Project
 
             //================================================================================
             //???
-            var lesson_6 = new Lesson_6();
-            lesson_6.Lesson_6_Method();
+            //var lesson_6 = new Lesson_6();
+            //lesson_6.Lesson_6_Method();
 
             //================================================================================
 
-            var lesson_7 = new Lesson_7();
-            lesson_7.Lesson_7_Method();
+            //var lesson_7 = new Lesson_7();
+            //lesson_7.Lesson_7_Method();
 
             //================================================================================
-
+            //Unit tests
             var lesson_8 = new Lesson_8();
             lesson_8.Lesson_8_Method();
 
+            //================================================================================
+            
+            //var lesson_9 = new Lesson_9();
+            //lesson_9.Lesson_9_Method();
 
 
 
