@@ -23,8 +23,8 @@ namespace LU_VUMC_Project
             //Classes
             //var lesson_3 = new Lesson_3();
             //lesson_3.Lesson_3_Method();
-            //var lesson_3_home = new Lesson_3_Home();
-            //lesson_3_home.Lesson_3_Home_Method();
+            //var lesson_3_home = new Lesson_3_Home(); //Sozdanie objekta, deklarirovanie peremennoj "lesson_3_home"
+            //lesson_3_home.Lesson_3_Home_Method(); //ispoljzuju objekt
 
             //================================================================================
             //if else
@@ -35,10 +35,25 @@ namespace LU_VUMC_Project
 
             //================================================================================
             //Masivi
-            var lesson_5 = new Lesson_5();
-            lesson_5.Lesson_5_Method();
+            //var lesson_5 = new Lesson_5();
+            //lesson_5.Lesson_5_Method();
             //var lesson_5_home = new Lesson_5_Home();
             //lesson_5_home.Lesson_5_Home_Method();
+
+            //================================================================================
+            //???
+            var lesson_6 = new Lesson_6();
+            lesson_6.Lesson_6_Method();
+
+            //================================================================================
+
+            var lesson_7 = new Lesson_7();
+            lesson_7.Lesson_7_Method();
+
+            //================================================================================
+
+            var lesson_8 = new Lesson_8();
+            lesson_8.Lesson_8_Method();
 
 
 

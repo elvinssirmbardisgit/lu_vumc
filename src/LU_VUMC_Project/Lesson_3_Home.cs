@@ -15,17 +15,23 @@ namespace LU_VUMC_Project
             //================================================================================
 
             var phone = new Lesson_3_Home_Phone();
-            phone.Phone();
+            phone.getSetBrandFromUser();
+            phone.getSetModelFromUser();
+
+            var calisstarted = phone.callStart();
+
+
+
 
             //================================================================================
 
-            var car = new Lesson_3_Home_Car();
-            car.Car();
+            //var car = new Lesson_3_Home_Car();
+            //car.Car();
 
             //================================================================================
 
-            var item = new Lesson_3_Home_Item();
-            item.Item();
+            //var item = new Lesson_3_Home_Item();
+            //item.Item();
 
             //================================================================================
 
